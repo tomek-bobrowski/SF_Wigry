@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "Wigry",
+  "namespace": "",
+  "sfdcLoginUrl": "https://wigry-dev-ed.develop.my.salesforce.com/",
+  "sourceApiVersion": "61.0"
+}
